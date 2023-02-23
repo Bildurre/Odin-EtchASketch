@@ -1,1 +1,3 @@
-# Odin_EtchASketch
+# Odin-EtchASketch
+
+Javascript DOM manipulation learning
